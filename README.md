@@ -5,9 +5,7 @@
 
 靠着这个，我就做了一个高仿知乎日报的小应用
 
-具体设计思路可以看我的个人网站：http://www.initobject.com/archives/479
-
-CSDN博客：http://blog.csdn.net/new_one_object/article/details/52115925
+具体设计思路可以看：http://blog.csdn.net/new_one_object/article/details/52115925
 
 ![](https://github.com/initobject/zhiliao/blob/master/1.gif)
 
